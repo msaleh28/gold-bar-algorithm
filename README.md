@@ -3,7 +3,7 @@
 For my algorithm, I used Selenium, a Python package used for web script automation.
 I used the provided website http://sdetchallenge.fetch.com/ and wrote an automated script to guess the fake bar. 
 
-To run this program, you must install a Python Conda environment. This is necessary in order to install the Python Selenium package. 
+To run this program, you must install a Python Conda environment. This is necessary in order to install the Python Selenium package. You must also have Google Chrome installed.
 
 We will need Conda in Python 3.9 to run this program. In your environment, you may follow this website to install (https://saturncloud.io/blog/how-to-install-python-39-with-conda-a-guide-for-data-scientists/).
 
